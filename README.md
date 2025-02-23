@@ -1,6 +1,6 @@
-# Role-Based Access Control (RBAC) in TypeScript
+# Attribute-Based Access Control (ABAC) in TypeScript
 
-This repository implements a **Role-Based Access Control (RBAC)** system in TypeScript. It allows defining **roles**, **permissions**, and **resources**, ensuring strict type safety while supporting boolean and function-based permission checks.
+This repository implements a **Attribute-Based Access Control (ABAC)** system in TypeScript. It allows defining **roles**, **permissions**, **resources** and **actions**, ensuring strict type safety while supporting boolean and function-based permission checks.
 
 ## 🚀 Features
 - ✅ Strongly typed **permissions system**
